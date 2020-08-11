@@ -9,17 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ControlStatementAndArrays">
+        <activity android:name=".SecureRandomNumber">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MathematicalOperationOnArray">
+        <activity android:name=".ControlStatementAndArrays">
         </activity>
-        <activity android:name=".Arrays">
-        </activity>
+        <activity android:name=".MathematicalOperationOnArray"></activity>
+        <activity android:name=".Arrays"></activity>
     </application>
 
 </manifest>
